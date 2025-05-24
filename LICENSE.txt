@@ -1,0 +1,17 @@
+Open Repurpose License v1.0
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, subject to the following conditions:
+
+1. Core Lock: The portion of the code known as the "Throwing Script" (as identified in the appendix below) must remain under this license in any and all derivative works. It may not be relicensed under any other terms. It must remain freely available, and may not be made proprietary or restricted in any way.
+
+2. Relicensing: All other parts of the Software may be relicensed under any terms the modifier chooses, provided the Throwing Script remains licensed under this license and is clearly marked as such.
+
+3. Attribution (Optional): Giving credit to the original author is appreciated but not required.
+
+4. Warranty Disclaimer: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+Appendix: The "Throwing Script" refers to the mouse-drag velocity and throw mechanic as originally written and shared by Anthony, including any math or logic derived from it for calculating velocity, inertia, drag, or rebound physics based on mouse interaction.
+
